@@ -4,8 +4,6 @@ Description:-
 Web scraping (or data scraping) is a technique used to collect content and data from the internet.This data is usually saved in a local file so that it can be manipulated and analyzed as needed. If
 youve ever copied and pasted content from a website into an Excel spreadsheet, this is essentially what web scraping is, but on a very small scale.
 
-|Sr.No| Topic | Overview | 
-|-|-|-|
 
 # Abstract:-
 Web scraping, also known as data Mining, is the process of collecting large amounts of data from the web and then placing it in database for future analysis and later use.
